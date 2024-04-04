@@ -1,5 +1,5 @@
 # geoinformatyka rządzi ohhh yeahh
 
-## md
+LISTA ZADAŃ:
 
-- [ ] Mój drogi pracowniku zrób zmiane w kodzie
+- [x] Mój drogi pracowniku zrób zmiane w kodzie
