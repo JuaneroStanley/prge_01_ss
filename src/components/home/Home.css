@@ -4,7 +4,6 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  flex-direction: row;
   justify-content: center;
 }
 .home_top {
@@ -20,20 +19,19 @@
 .home_left {
   /*background-color: orange;*/
   width: 40vw;
-  height: 100vh;
   justify-content: center;
   display: flex;
   align-items: center;
+  margin: 50px;
 }
 
 .home_right {
   width: 40vw;
-  height: 100vh;
   /*background-color: blue;*/
   display: flex;
   flex-direction: column;
   /*justify-content: center;*/
-  padding-left: 15px;
+  align-content: center;
 }
 
 .map_wat {
