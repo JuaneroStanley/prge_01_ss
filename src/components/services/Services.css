@@ -1,0 +1,47 @@
+.services {
+}
+
+.services_title {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+.services_bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.services_option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 25px;
+}
+
+.services_option_obj {
+  background-color: orange;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.services_images {
+  background-color: brown;
+  width: 300px;
+  height: 300px;
+  margin: 100px 50px;
+}
+
+.services_img {
+  width: 300px;
+  height: 300px;
+}

@@ -85,9 +85,6 @@
 }
 
 @media screen and (max-width: 1000px) {
-  * {
-    /* background-color: blue; */
-  }
   .home_botton {
     flex-direction: column;
   }
