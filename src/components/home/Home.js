@@ -1,17 +1,16 @@
 import React from "react";
 import "./Home.css";
-import map_wat from "./map.png";
+import plan_wat from "./map.png";
 
 function Home({ text }) {
   return (
     <div className="home">
       <div className="home_top">
-        <button className="home_top_button">O projekcie</button>
+        <div className="home_top_about">O projekcies</div>
       </div>
-
-      <div className="home_bottom">
+      <div className="home_botton">
         <div className="home_left">
-          <img className="map_wat" src={map_wat} alt="map_wat"></img>
+          <img className="plan" src={plan_wat} alt="logo" />
         </div>
 
         <div className="home_right">
