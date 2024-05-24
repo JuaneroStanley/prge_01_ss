@@ -26,7 +26,6 @@
 }
 
 .services_option_obj {
-  background-color: orange;
   width: 60px;
   display: flex;
   justify-content: center;
@@ -35,7 +34,6 @@
 }
 
 .services_images {
-  background-color: brown;
   width: 300px;
   height: 300px;
   margin: 100px 50px;
